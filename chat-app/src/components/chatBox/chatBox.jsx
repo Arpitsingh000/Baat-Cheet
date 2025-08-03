@@ -1,5 +1,5 @@
 import React, { useContext, useEffect, useState } from 'react';
-import './ChatBox.css';
+import './chatBox.css';
 import assets from '../../assets/assets';
 import { AppContext } from '../../context/AppContext';
 import { arrayUnion, doc, onSnapshot, updateDoc, getDoc } from 'firebase/firestore';
@@ -149,5 +149,6 @@ const ChatBox = () => {
             <p>chat anytime, anywhere </p>
         </div>
 }
+
 
 export default ChatBox;
