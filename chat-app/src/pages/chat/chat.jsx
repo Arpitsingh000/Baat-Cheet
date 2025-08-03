@@ -1,5 +1,5 @@
 import React, { useContext, useEffect, useState } from "react";
-import "./Chat.css";
+import "./chat.css";
 import ChatBox from "../../components/ChatBox/ChatBox";
 import RightSidebar from "../../components/rightSidebar/RightSidebar";
 import LeftSidebar from './../../components/leftSidebar/leftSidebar';
@@ -29,5 +29,6 @@ const Chat = () => {
     </div>
   );
 }
+
 
 export default Chat;
