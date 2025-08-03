@@ -58,10 +58,10 @@ chat-app/
 ## ⚙️ Technologies Used
 
 - [React](https://reactjs.org/)
-- [Firebase Authentication & Firestore](https://firebase.google.com/)
+- [Firebase Authentication & Firestore](https://firebase.google.com/) (for authentication and database )
 - [Vite](https://vitejs.dev/) (for faster builds)
 - Plain CSS (for styling)
-- [Supabase Storage](https://supabase.com/) *(optional, if used for file uploads)*
+- [Supabase Storage](https://supabase.com/) (for media storage)
 
 ---
 
