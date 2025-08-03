@@ -10,7 +10,7 @@ import arrow_icon from './arrow_icon.png'
 import green_dot from './green_dot.png'
 import favicon_light from './favicon_light.png'
 import favicon_dark from './favicon_dark.png'
-import add_icon from './add_icon'
+import add_icon from './add_icon.png'
 
 const assets = {
     avatar_icon,
@@ -27,5 +27,6 @@ const assets = {
     favicon_light,
     favicon_dark
 }
+
 
 export default assets;
