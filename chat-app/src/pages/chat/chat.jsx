@@ -1,6 +1,6 @@
 import React, { useContext, useEffect, useState } from "react";
 import "./chat.css";
-import ChatBox from "../../components/ChatBox/ChatBox";
+import ChatBox from "../../components/chatBox/chatBox";
 import RightSidebar from "../../components/rightSidebar/RightSidebar";
 import LeftSidebar from './../../components/leftSidebar/leftSidebar';
 import { AppContext } from "../../context/AppContext";
@@ -32,3 +32,4 @@ const Chat = () => {
 
 
 export default Chat;
+
